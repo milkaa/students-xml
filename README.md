@@ -10,3 +10,10 @@ Task for students (XML + Unit testing)
 Так же постарайтесь написать xsd-файл с xml-схемой для данного входного файла.
 
 При разработке желательно использовать подход TDD. 
+
+
+Ссылки на презентации:
+
+https://drive.google.com/file/d/0B_D5AVi3D1-bSktxY1hIbVRyZUk - unit testing
+
+https://drive.google.com/file/d/0B_8GvPUG4HHXSFl4Ql9wd2M3SDg - XML
